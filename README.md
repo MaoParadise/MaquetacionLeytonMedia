@@ -12,4 +12,4 @@
 
 ## MOVIL VERSION
 
-<img width="80%" src="https://github.com/MaoParadise/MaquetacionLeytonMedia/blob/main/documentation/mobil-version.png?raw=true" >
+<img width="80%" src="https://github.com/MaoParadise/MaquetacionLeytonMedia/blob/main/documentation/movil-version.png?raw=true" >
