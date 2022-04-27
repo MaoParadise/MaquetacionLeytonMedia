@@ -1,0 +1,21 @@
+:root{
+    --primary-color: #3faedc;
+    --red-buttons: #f33d34;
+    --red-buttons-dark: #ba2319;
+    --blue-buttons: #1778c4;
+    --blue-buttons-dark: #155d92;
+    --green-buttons: #27a94a;
+    --green-buttons-dark: #1a7637;
+    --red-general: #f33d34;
+    --black-text: #212529;
+}
+
+body{
+    font-family: overpass,Arial,sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f2f2f2;
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
